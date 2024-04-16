@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.css">
 <style>
   body {
-    font-family: MonoLisa, Fira Code;
+    font-family: MonoLisa, Fira Code;    /* coding font*/
     background-color: #f0f0f0;
     margin-top: 120px;
   }
