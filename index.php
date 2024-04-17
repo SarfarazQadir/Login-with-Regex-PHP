@@ -88,7 +88,7 @@
     <input type="submit" value="Login" class="btn btn-primary">
   </form>
 </div>
-
+<!-- cdn link -->
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script>
 /* Function to validate form inputs */
